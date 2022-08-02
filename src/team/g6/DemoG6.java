@@ -8,6 +8,18 @@ public class DemoG6 {
 		System.out.println("Test");
 		
 		System.out.println("G6");
+
+		System.out.println("Gibtsawit");
+
+		// changes by Ivan
+	}
+
+	public static void Spiderman(String hero) {
+
+		System.out.println("The best super hero!");
+
+		System.out.println("Chris was here");
+
 	}
 	
 	public static void add(int a, int b) {
