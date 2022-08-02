@@ -29,5 +29,11 @@ public class DemoG6 {
 	}
 	
 	//comment by ivan 2
+	
+	public static void Venom(String villain) {
+		
+		System.out.println("The most popular villain");
+		
+	}
 
 }
