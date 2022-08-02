@@ -8,6 +8,9 @@ public class DemoG6 {
 		System.out.println("Test");
 		
 		System.out.println("G6");
+		
+		
+		System.out.println("Gibtsawit");
 	}
 
 }
