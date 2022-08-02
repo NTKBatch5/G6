@@ -19,6 +19,7 @@ public class DemoG6 {
 		
 		System.out.println("The best super hero!");
 		
+		System.out.println("Chris was here");
 	}
 
 }
