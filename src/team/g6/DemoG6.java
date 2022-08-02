@@ -35,5 +35,9 @@ public class DemoG6 {
 		System.out.println("The most popular villain");
 		
 	}
+	
+	public static void crazy(String word) {
+		System.out.println("What me worry??1");
+	}
 
 }
