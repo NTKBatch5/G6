@@ -11,6 +11,8 @@ public class DemoG6 {
 		
 		
 		System.out.println("Gibtsawit");
+		
+		//changes by Ivan
 	}
 
 }
