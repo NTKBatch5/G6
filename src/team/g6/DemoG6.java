@@ -14,5 +14,11 @@ public class DemoG6 {
 		
 		//changes by Ivan
 	}
+	
+	public static void Spiderman(String hero) {
+		
+		System.out.println("The best super hero!");
+		
+	}
 
 }
