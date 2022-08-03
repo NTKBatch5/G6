@@ -12,6 +12,15 @@ public class DemoG6 {
 		System.out.println("Gibtsawit");
 
 		// changes by Ivan
+				System.out.println("Test");
+		
+		System.out.println("G6");
+
+		System.out.println("Gibtsawit");
+
+		// changes by Ivan
+				// changes by Ivan
+				// changes by Ivan		// changes by Ivan
 	}
 
 	public static void Spiderman(String hero) {
