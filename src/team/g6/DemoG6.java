@@ -12,15 +12,6 @@ public class DemoG6 {
 		System.out.println("Gibtsawit");
 
 		// changes by Ivan
-				System.out.println("Test");
-		
-		System.out.println("G6");
-
-		System.out.println("Gibtsawit");
-
-		// changes by Ivan
-				// changes by Ivan
-				// changes by Ivan		// changes by Ivan
 	}
 
 	public static void Spiderman(String hero) {
@@ -34,17 +25,9 @@ public class DemoG6 {
 	public static void add(int a, int b) {
 		System.out.println(a+b);
 		
-<<<<<<< HEAD
-		System.out.println("error");
-=======
 		System.out.println("Team B6");
->>>>>>> branch 'master' of https://github.com/NTKBatch5/G6.git
 	}
 	
-<<<<<<< HEAD
-	
-
-=======
 	//comment by ivan 2
 	public static void subtract(int a,int b) {
 		
@@ -67,5 +50,6 @@ public class DemoG6 {
 		System.out.println(c+d);
 	}
 	
->>>>>>> branch 'master' of https://github.com/NTKBatch5/G6.git
+	//comment to broke this code
+	
 }
