@@ -29,6 +29,11 @@ public class DemoG6 {
 	}
 	
 	//comment by ivan 2
+	public static void subtract(int a,int b) {
+		
+		System.out.println(a-b);
+		
+	}
 	
 	public static void Venom(String villain) {
 		
