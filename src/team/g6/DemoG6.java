@@ -45,5 +45,24 @@ public class DemoG6 {
 	
 	
 	
+	int addNum(int price) {
+		
+		int result = 0;
+		
+		return result; // Executed By Eddy
+		
+	}
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 }
