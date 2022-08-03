@@ -49,7 +49,7 @@ public class DemoG6 {
 		
 		int result = 0;
 		
-		return result; // Executed By Eddy
+		return result; // Executed By Eddy it seems very fun!!!
 		
 	}
 
