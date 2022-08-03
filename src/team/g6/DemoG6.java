@@ -45,4 +45,9 @@ public class DemoG6 {
 		System.out.println("What me worry??1");
 	}
 		// just another test
+	
+	public static void addition(int c,int d) {
+		System.out.println(c+d);
+	}
+	
 }
