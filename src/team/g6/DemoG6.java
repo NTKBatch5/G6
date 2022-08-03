@@ -39,32 +39,5 @@ public class DemoG6 {
 	public static void crazy(String word) {
 		System.out.println("What me worry??1");
 	}
-
-	// GiHub Greeting from Eddy Abdy, How is everybody doing?
-	
-	
-	
-	
-	int addNum(int price) {
-		
-		int result = 0;
-		
-		return result; // Executed By Eddy it seems very fun!!!
-		
-	}
-
-	
-	// Random Code for test
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+		// just another test
 }
