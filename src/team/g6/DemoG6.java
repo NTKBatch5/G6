@@ -38,6 +38,15 @@ public class DemoG6 {
 	
 	public static void crazy(String word) {
 		System.out.println("What me worry??1");
+		
+		
 	}
 		// just another test
+public static void goodBye() {
+	String goodBye;
+
+	
+}
+	
+	
 }
