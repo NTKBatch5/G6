@@ -24,6 +24,10 @@ public class DemoG6 {
 	
 	public static void add(int a, int b) {
 		System.out.println(a+b);
+		
+		System.out.println("error");
 	}
+	
+	
 
 }
