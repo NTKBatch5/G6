@@ -63,6 +63,8 @@ public class DemoG6 {
 	public static void goodBye() { //LOCAL
 		String goodBye;
 			// just another test
-		
+	
+		System.out.println("New Edits for Review");
 	}
+	
 }
