@@ -65,6 +65,8 @@ public class DemoG6 {
 			// just another test
 	
 		System.out.println("New Edits for Review");
+		
+		System.out.println("It's a mad world");
 	}
 	
 }
