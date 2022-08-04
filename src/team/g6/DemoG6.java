@@ -67,6 +67,8 @@ public class DemoG6 {
 		System.out.println("New Edits for Review");
 		
 		System.out.println("It's a mad world");
+		
+		System.out.println("beep boop beep boop");
 	}
 	
 }
