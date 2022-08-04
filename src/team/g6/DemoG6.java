@@ -69,6 +69,7 @@ public class DemoG6 {
 		System.out.println("It's a mad world");
 		
 		System.out.println("beep boop beep boop");
+
 	}
 	
 }
