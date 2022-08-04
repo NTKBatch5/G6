@@ -8,10 +8,20 @@ public class DemoG6 {
 		System.out.println("Test");
 		
 		System.out.println("G6");
+		
+		
+		System.out.println("Gibtsawit");
+
+		// changes by Ivan
+				System.out.println("Test");
+		
+		System.out.println("G6");
 
 		System.out.println("Gibtsawit");
 
 		// changes by Ivan
+				// changes by Ivan
+				// changes by Ivan		// changes by Ivan
 	}
 
 	public static void Spiderman(String hero) {
@@ -25,10 +35,20 @@ public class DemoG6 {
 	public static void add(int a, int b) {
 		System.out.println(a+b);
 		
-		System.out.println("Team B6");
+
+
+
+		System.out.println("Team B6"); // remote
+
 	}
 	
+
 	//comment by ivan 2
+	public static void subtract(int a,int b) {
+		
+		System.out.println(a-b);
+		
+	}
 	
 	public static void Venom(String villain) {
 		
@@ -42,11 +62,15 @@ public class DemoG6 {
 		
 	}
 		// just another test
-public static void goodBye() {
-	String goodBye;
 
 	
-}
+	public static void addition(int c,int d) { //REPOSITORY
+		System.out.println(c+d);
+	}
 	
-	
+	public static void goodBye() { //LOCAL
+		String goodBye;
+			// just another test
+		
+	}
 }
