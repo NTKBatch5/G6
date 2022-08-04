@@ -60,5 +60,9 @@ public class DemoG6 {
 
 	//comment to broke thi
 	
-
+	public static void goodBye() { //LOCAL
+		String goodBye;
+			// just another test
+		
+	}
 }
