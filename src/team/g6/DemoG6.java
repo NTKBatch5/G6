@@ -13,15 +13,6 @@ public class DemoG6 {
 		System.out.println("Gibtsawit");
 
 		// changes by Ivan
-				System.out.println("Test");
-		
-		System.out.println("G6");
-
-		System.out.println("Gibtsawit");
-
-		// changes by Ivan
-				// changes by Ivan
-				// changes by Ivan		// changes by Ivan
 	}
 
 	public static void Spiderman(String hero) {
@@ -36,9 +27,7 @@ public class DemoG6 {
 		System.out.println(a+b);
 		
 
-
-
-		System.out.println("Team B6"); // remote
+		System.out.println("Team B6");
 
 	}
 	
@@ -68,9 +57,8 @@ public class DemoG6 {
 		System.out.println(c+d);
 	}
 	
-	public static void goodBye() { //LOCAL
-		String goodBye;
-			// just another test
-		
-	}
+
+	//comment to broke thi
+	
+
 }
